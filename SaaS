@@ -1,0 +1,35 @@
+Modelo de Negócio para Sistemas de Informação - SaaS (Software as a Service)
+
+SaaS (Software as a Service) é um modelo de distribuição de software onde a aplicação é hospedada e gerenciada por um provedor de serviços, acessada pelos usuários pela internet, geralmente por meio de uma assinatura. Ao contrário do modelo tradicional de licenciamento de software, onde o cliente compra e instala o software em seus próprios servidores, no modelo SaaS, os usuários pagam pelo uso do serviço em vez de adquirir a licença do software de forma permanente.
+
+Características principais do modelo SaaS:
+Acesso Remoto via Internet: O software é acessado pela internet, o que elimina a necessidade de instalar e manter o sistema localmente. Isso torna o SaaS ideal para ambientes que precisam de acessibilidade em qualquer lugar e a qualquer momento.
+
+Assinaturas: O modelo de pagamento é frequentemente baseado em uma assinatura mensal ou anual, permitindo previsibilidade de receita para o fornecedor e custos recorrentes para os usuários.
+
+Escalabilidade: O SaaS permite que as empresas escalem facilmente o uso de acordo com suas necessidades. Elas podem aumentar ou diminuir a quantidade de usuários ou recursos conforme o crescimento da demanda, sem precisar realizar investimentos em hardware.
+
+Atualizações automáticas: O provedor de SaaS é responsável por manter o software atualizado, oferecendo novas funcionalidades e corrigindo bugs sem que os usuários precisem fazer nada. Isso garante que o cliente tenha sempre a versão mais recente.
+
+Segurança: Embora o software seja acessado via internet, os provedores de SaaS geralmente oferecem altos níveis de segurança, como criptografia, backups regulares e proteção contra ataques cibernéticos.
+
+Multitenancy: O modelo SaaS permite que um único aplicativo sirva a múltiplos clientes (ou "tenants") de forma isolada, usando a mesma infraestrutura, mas garantindo que os dados de cada cliente sejam privados.
+
+Manutenção simplificada: O provedor de SaaS é responsável por toda a infraestrutura de TI e manutenção do sistema. O cliente não precisa se preocupar com servidores, backup ou outras tarefas de manutenção.
+
+Exemplos de empresas que utilizam o modelo SaaS:
+Google Workspace (antigo G Suite)
+Microsoft 365
+Salesforce
+Dropbox
+Zoom
+Vantagens para os clientes:
+Custos reduzidos: Não há necessidade de investir em infraestrutura ou licenças de software caras. A empresa paga apenas pelo uso do serviço.
+Acessibilidade: Possibilidade de acessar o software de qualquer lugar, o que é útil para equipes distribuídas ou que precisam de mobilidade.
+Manutenção mínima: O cliente não precisa se preocupar com atualizações, patches ou manutenção de servidores.
+Desafios para os fornecedores de SaaS:
+Concorrência intensa: O modelo SaaS se popularizou, o que resulta em uma competição acirrada no mercado.
+Dependência de conectividade com a internet: Como o software é acessado pela web, a disponibilidade do serviço depende de uma conexão estável à internet.
+Gestão da segurança e privacidade: Garantir a proteção dos dados dos usuários é uma responsabilidade crucial para os fornecedores de SaaS.
+Conclusão:
+O modelo de negócios SaaS é uma alternativa eficaz e moderna ao modelo tradicional de licenciamento de software, oferecendo flexibilidade, escalabilidade e baixos custos iniciais. Ele é altamente valorizado por empresas que buscam otimizar operações e focar em inovação, delegando a manutenção e infraestrutura para os provedores especializados.
